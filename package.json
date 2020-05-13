@@ -1,3 +1,6 @@
+jQuery.htmlPrefilter = function( html ) {
+	return html;
+};
 {
   "name": "clean-blog",
   "title": "Clean Blog",
